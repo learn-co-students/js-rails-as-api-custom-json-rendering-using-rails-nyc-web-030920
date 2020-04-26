@@ -118,7 +118,7 @@ end
 ```
 
 Here, we've created a new hash out of three keys, assigning the keys manually
-with the attributes of `bird`.
+with the attributes of `bird`. 
 
 The result is that when we visit a specific bird's endpoint, like
 `http://localhost:3000/birds/3`, we'll see just the id, name and species:
